@@ -1,0 +1,673 @@
+{
+  "statuses": [
+    {
+      "created_at": "Tue Oct 04 21:36:13 +0000 2016",
+      "id": 783420485547749400,
+      "id_str": "783420485547749377",
+      "text": "@frieza175 hey what's up??",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frieza175",
+            "name": "greetme",
+            "id": 783024655401713700,
+            "id_str": "783024655401713664",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 783024655401713700,
+      "in_reply_to_user_id_str": "783024655401713664",
+      "in_reply_to_screen_name": "frieza175",
+      "user": {
+        "id": 17187259,
+        "id_str": "17187259",
+        "name": "Abhishek Kumar",
+        "screen_name": "AbhishekAcer",
+        "location": "12.968027,77.712957",
+        "description": "Techie,Digital marketer, Web analyst, Social Media Marketer, F1 Lover, Blogger,Cricketer and a dreamer.!!",
+        "url": "https://t.co/hUOCHJRHQY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/hUOCHJRHQY",
+                "expanded_url": "http://learnomics.me",
+                "display_url": "learnomics.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 324,
+        "friends_count": 558,
+        "listed_count": 55,
+        "created_at": "Wed Nov 05 12:18:23 +0000 2008",
+        "favourites_count": 33,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4765,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/765408570611527681/NLauu7GB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/765408570611527681/NLauu7GB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17187259/1421811303",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Oct 04 20:26:18 +0000 2016",
+      "id": 783402887988797400,
+      "id_str": "783402887988797444",
+      "text": "@frieza175  awesome stuff using #heroku and #twitterbot",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "heroku",
+            "indices": [
+              32,
+              39
+            ]
+          },
+          {
+            "text": "twitterbot",
+            "indices": [
+              44,
+              55
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frieza175",
+            "name": "greetme",
+            "id": 783024655401713700,
+            "id_str": "783024655401713664",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 783024655401713700,
+      "in_reply_to_user_id_str": "783024655401713664",
+      "in_reply_to_screen_name": "frieza175",
+      "user": {
+        "id": 551754905,
+        "id_str": "551754905",
+        "name": "Vivek",
+        "screen_name": "bhat175",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 55,
+        "friends_count": 180,
+        "listed_count": 7,
+        "created_at": "Thu Apr 12 10:56:46 +0000 2012",
+        "favourites_count": 8,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 38,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567928851032838144/b1fCAxDL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/567928851032838144/b1fCAxDL_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Oct 04 19:54:33 +0000 2016",
+      "id": 783394897965506600,
+      "id_str": "783394897965506560",
+      "text": "@frieza175 Vivek Bhat is awesome again",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frieza175",
+            "name": "greetme",
+            "id": 783024655401713700,
+            "id_str": "783024655401713664",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 783024655401713700,
+      "in_reply_to_user_id_str": "783024655401713664",
+      "in_reply_to_screen_name": "frieza175",
+      "user": {
+        "id": 482385677,
+        "id_str": "482385677",
+        "name": "Sumit Kaul",
+        "screen_name": "sumitkaul2",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 28,
+        "friends_count": 106,
+        "listed_count": 0,
+        "created_at": "Fri Feb 03 21:08:14 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3426028963/de3c99399b97dbfc3a641837484205f0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3426028963/de3c99399b97dbfc3a641837484205f0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Oct 04 19:51:40 +0000 2016",
+      "id": 783394175861395500,
+      "id_str": "783394175861395458",
+      "text": "@frieza175 awesome and fun bot",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frieza175",
+            "name": "greetme",
+            "id": 783024655401713700,
+            "id_str": "783024655401713664",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 783024655401713700,
+      "in_reply_to_user_id_str": "783024655401713664",
+      "in_reply_to_screen_name": "frieza175",
+      "user": {
+        "id": 551754905,
+        "id_str": "551754905",
+        "name": "Vivek",
+        "screen_name": "bhat175",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 55,
+        "friends_count": 180,
+        "listed_count": 7,
+        "created_at": "Thu Apr 12 10:56:46 +0000 2012",
+        "favourites_count": 8,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 38,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567928851032838144/b1fCAxDL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/567928851032838144/b1fCAxDL_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Oct 04 19:44:36 +0000 2016",
+      "id": 783392394758725600,
+      "id_str": "783392394758725632",
+      "text": "@frieza175 you are so cool",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frieza175",
+            "name": "greetme",
+            "id": 783024655401713700,
+            "id_str": "783024655401713664",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 783024655401713700,
+      "in_reply_to_user_id_str": "783024655401713664",
+      "in_reply_to_screen_name": "frieza175",
+      "user": {
+        "id": 551754905,
+        "id_str": "551754905",
+        "name": "Vivek",
+        "screen_name": "bhat175",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 55,
+        "friends_count": 180,
+        "listed_count": 7,
+        "created_at": "Thu Apr 12 10:56:46 +0000 2012",
+        "favourites_count": 8,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 38,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567928851032838144/b1fCAxDL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/567928851032838144/b1fCAxDL_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Oct 04 19:07:01 +0000 2016",
+      "id": 783382936498368500,
+      "id_str": "783382936498368512",
+      "text": "@frieza175 Vivek you are awesome!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frieza175",
+            "name": "greetme",
+            "id": 783024655401713700,
+            "id_str": "783024655401713664",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 783024655401713700,
+      "in_reply_to_user_id_str": "783024655401713664",
+      "in_reply_to_screen_name": "frieza175",
+      "user": {
+        "id": 482385677,
+        "id_str": "482385677",
+        "name": "Sumit Kaul",
+        "screen_name": "sumitkaul2",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 28,
+        "friends_count": 106,
+        "listed_count": 0,
+        "created_at": "Fri Feb 03 21:08:14 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3426028963/de3c99399b97dbfc3a641837484205f0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3426028963/de3c99399b97dbfc3a641837484205f0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Oct 04 19:05:41 +0000 2016",
+      "id": 783382600584990700,
+      "id_str": "783382600584990721",
+      "text": "@frieza175 awesome bot, you are",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frieza175",
+            "name": "greetme",
+            "id": 783024655401713700,
+            "id_str": "783024655401713664",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 783024655401713700,
+      "in_reply_to_user_id_str": "783024655401713664",
+      "in_reply_to_screen_name": "frieza175",
+      "user": {
+        "id": 551754905,
+        "id_str": "551754905",
+        "name": "Vivek",
+        "screen_name": "bhat175",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 55,
+        "friends_count": 180,
+        "listed_count": 7,
+        "created_at": "Thu Apr 12 10:56:46 +0000 2012",
+        "favourites_count": 8,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 38,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567928851032838144/b1fCAxDL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/567928851032838144/b1fCAxDL_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.028,
+    "max_id": 783420485547749400,
+    "max_id_str": "783420485547749377",
+    "query": "%40frieza175",
+    "refresh_url": "?since_id=783420485547749377&q=%40frieza175&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
