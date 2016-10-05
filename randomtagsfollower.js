@@ -10,11 +10,11 @@ var T = new Twit(config);
 	
 	var query ={  
 
-		 q: tags[x], count: 25  
+		 q: tags[x], count: 22  
 		}
 
 //	T.get('search/tweets', query, searched) ;
-   setTimeout(function() {T.get('search/tweets', query, searched)}, 1000*25);
+   setTimeout(function() {T.get('search/tweets', query, searched)}, 1000*60*5);
  //setTimeout(function() {T.post('favorites/create',friend, callback)}, 1000*25);
 
 	function searched(err,data,response){
