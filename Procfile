@@ -1,1 +1,1 @@
-worker: node randomSearch.js
+worker: node randomtagsfollower.js
