@@ -1,0 +1,4622 @@
+{
+  "statuses": [
+    {
+      "created_at": "Wed Oct 05 15:02:58 +0000 2016",
+      "id": 783683907002757100,
+      "id_str": "783683907002757121",
+      "text": "ReCore free trial experience launches today https://t.co/LxXonTbe70 #microsoft",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "microsoft",
+            "indices": [
+              68,
+              78
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LxXonTbe70",
+            "expanded_url": "http://l.kull.fr/1524758/https://www.google.com/url?rct=j&sa=t&url=https://blogs.windows.com/windowsexperience/2016/10/05/recore-free-trial-experience-launches-today/&ct=ga&cd=CAIyGmMzNmE5YzgyNTI1MTRkYmU6Y29tOmVuOlVT&usg=AN6KhHtCaIoexgJ7tiITfQrwR2PA3niu6w",
+            "display_url": "l.kull.fr/1524758/https:…",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3410004411,
+        "id_str": "3410004411",
+        "name": "Camille",
+        "screen_name": "_newstech_",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 596,
+        "friends_count": 51,
+        "listed_count": 512,
+        "created_at": "Sun Aug 09 09:43:56 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 276426,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/630316394521870336/GMaCbHBx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/630316394521870336/GMaCbHBx_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:57 +0000 2016",
+      "id": 783683905589223400,
+      "id_str": "783683905589223424",
+      "text": "New resources to report hate speech, request content reinstatement https://t.co/bujro0SoCM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bujro0SoCM",
+            "expanded_url": "http://blogs.microsoft.com/on-the-issues/2016/08/26/new-resources-report-hate-speech-request-content-reinstatement/",
+            "display_url": "blogs.microsoft.com/on-the-issues/…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1357099987,
+        "id_str": "1357099987",
+        "name": "INHS",
+        "screen_name": "IntHateStudies",
+        "location": "",
+        "description": "We work hard to connect #academia, #activism & #policy to help understand & address #hate, #hatecrime & #hatespeech, globally.",
+        "url": "https://t.co/HBBScuAQPJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/HBBScuAQPJ",
+                "expanded_url": "http://www.internationalhatestudies.com",
+                "display_url": "internationalhatestudies.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 562,
+        "friends_count": 505,
+        "listed_count": 21,
+        "created_at": "Tue Apr 16 15:01:01 +0000 2013",
+        "favourites_count": 286,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1440,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/873318429/01fc3b4a4ca90230607e5a5fc685740f.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/873318429/01fc3b4a4ca90230607e5a5fc685740f.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/690572499415859200/OUVycVPF_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/690572499415859200/OUVycVPF_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:57 +0000 2016",
+      "id": 783683904519700500,
+      "id_str": "783683904519700480",
+      "text": "RT @chazzpalminteri: Watch set designer Beowulf Boritt talk about A Bronx Tale: The Musical on this Microsoft commercial - https://t.co/PE5…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chazzpalminteri",
+            "name": "Chazz Palminteri",
+            "id": 1388066365,
+            "id_str": "1388066365",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3238992957,
+        "id_str": "3238992957",
+        "name": "Lizord  the  Emperor",
+        "screen_name": "LizordEindhoven",
+        "location": "Eindhoven, Noord-Brabant",
+        "description": "Energy",
+        "url": "http://t.co/tUpdcjahpA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/tUpdcjahpA",
+                "expanded_url": "http://www.Lizord.The.Emperor.com",
+                "display_url": "Lizord.The.Emperor.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 423,
+        "friends_count": 24,
+        "listed_count": 5,
+        "created_at": "Wed May 06 15:49:46 +0000 2015",
+        "favourites_count": 1546,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3371,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/681231047846055940/kRE-HbKG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/681231047846055940/kRE-HbKG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3238992957/1433953769",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 05 14:40:40 +0000 2016",
+        "id": 783678297288937500,
+        "id_str": "783678297288937472",
+        "text": "Watch set designer Beowulf Boritt talk about A Bronx Tale: The Musical on this Microsoft commercial - https://t.co/PE5cFZONI1",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/PE5cFZONI1",
+              "expanded_url": "http://ow.ly/gI7K304RhCE",
+              "display_url": "ow.ly/gI7K304RhCE",
+              "indices": [
+                102,
+                125
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1388066365,
+          "id_str": "1388066365",
+          "name": "Chazz Palminteri",
+          "screen_name": "chazzpalminteri",
+          "location": "NY",
+          "description": "Official Twitter Account of Chazz Palminteri",
+          "url": "http://t.co/mqGcvKIx6d",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/mqGcvKIx6d",
+                  "expanded_url": "http://chazzpalminteri.net",
+                  "display_url": "chazzpalminteri.net",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 54464,
+          "friends_count": 849,
+          "listed_count": 71,
+          "created_at": "Sun Apr 28 22:20:58 +0000 2013",
+          "favourites_count": 35,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 2286,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/378800000192065077/2e2d20fca110915682cb5adb77be9a50_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000192065077/2e2d20fca110915682cb5adb77be9a50_normal.png",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:55 +0000 2016",
+      "id": 783683894424039400,
+      "id_str": "783683894424039424",
+      "text": "RT @MSEmpresasLatam: Las compañias quieren mostrarse innovadoras como @ABBgroupnews junto a @Microsoft. Norm Judah Live: https://t.co/8oLpB…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MSEmpresasLatam",
+            "name": "Microsoft Empresas",
+            "id": 48008848,
+            "id_str": "48008848",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "ABBgroupnews",
+            "name": "ABB Global",
+            "id": 51801586,
+            "id_str": "51801586",
+            "indices": [
+              70,
+              83
+            ]
+          },
+          {
+            "screen_name": "Microsoft",
+            "name": "Microsoft",
+            "id": 74286565,
+            "id_str": "74286565",
+            "indices": [
+              92,
+              102
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 142372168,
+        "id_str": "142372168",
+        "name": "Washington Moreno",
+        "screen_name": "WachoMoreno",
+        "location": "Ecuador",
+        "description": "Analista de Sistemas, Labora en Asociación Escuela de Auto-Realización (Yoga y Cristianismo), Cruzando una LSI en la U. de Guayaquil. 40 Años.",
+        "url": "http://t.co/tAVeO2sOtw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/tAVeO2sOtw",
+                "expanded_url": "http://www.wix.com/morenowacho/servicioscomputacionales",
+                "display_url": "wix.com/morenowacho/se…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 223,
+        "friends_count": 636,
+        "listed_count": 3,
+        "created_at": "Mon May 10 18:19:24 +0000 2010",
+        "favourites_count": 57,
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6076,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623883888230854656/A1aLnrQ3.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623883888230854656/A1aLnrQ3.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/595413149408468993/MBif3ZzF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/595413149408468993/MBif3ZzF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/142372168/1384061122",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "8BB9F5",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 05 14:24:31 +0000 2016",
+        "id": 783674231494209500,
+        "id_str": "783674231494209536",
+        "text": "Las compañias quieren mostrarse innovadoras como @ABBgroupnews junto a @Microsoft. Norm Judah Live:… https://t.co/PVVrZJ4VQS",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ABBgroupnews",
+              "name": "ABB Global",
+              "id": 51801586,
+              "id_str": "51801586",
+              "indices": [
+                49,
+                62
+              ]
+            },
+            {
+              "screen_name": "Microsoft",
+              "name": "Microsoft",
+              "id": 74286565,
+              "id_str": "74286565",
+              "indices": [
+                71,
+                81
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/PVVrZJ4VQS",
+              "expanded_url": "https://twitter.com/i/web/status/783674231494209536",
+              "display_url": "twitter.com/i/web/status/7…",
+              "indices": [
+                101,
+                124
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 48008848,
+          "id_str": "48008848",
+          "name": "Microsoft Empresas",
+          "screen_name": "MSEmpresasLatam",
+          "location": "Latinoamérica",
+          "description": "Consejos y soluciones para maximizar la productividad de tu equipo, optimizar la inversión en tecnología y llevar a tu empresa al siguiente nivel.",
+          "url": "https://t.co/5bwLanXRqO",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/5bwLanXRqO",
+                  "expanded_url": "http://www.microsoft.com/latam/empresas",
+                  "display_url": "microsoft.com/latam/empresas",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 27326,
+          "friends_count": 16701,
+          "listed_count": 449,
+          "created_at": "Wed Jun 17 16:05:36 +0000 2009",
+          "favourites_count": 18288,
+          "utc_offset": -18000,
+          "time_zone": "Bogota",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 13038,
+          "lang": "es",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "EBEBEB",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/757663037/c92454ea937d7de78cf1cbc1a0b25e0d.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/757663037/c92454ea937d7de78cf1cbc1a0b25e0d.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/658741504844955649/1rtGQf5f_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/658741504844955649/1rtGQf5f_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/48008848/1475187911",
+          "profile_link_color": "990000",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "C0DFEC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:52 +0000 2016",
+      "id": 783683882449264600,
+      "id_str": "783683882449264641",
+      "text": "RT @DaithiDeNogla: Iv been sick for a couple of days so Microsoft sent me Gears of War 4 Xbox One S to cheer me up. Top blokes ^_^ https://…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DaithiDeNogla",
+            "name": "Daithi De Nogla",
+            "id": 474919140,
+            "id_str": "474919140",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 708670881237753900,
+        "id_str": "708670881237753857",
+        "name": "Luke",
+        "screen_name": "LukeIrwin29",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 269,
+        "friends_count": 46,
+        "listed_count": 24,
+        "created_at": "Sat Mar 12 15:07:59 +0000 2016",
+        "favourites_count": 17551,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16917,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/727462291785027584/-wJJnWUD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/727462291785027584/-wJJnWUD_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Oct 04 15:03:30 +0000 2016",
+        "id": 783321656345366500,
+        "id_str": "783321656345366528",
+        "text": "Iv been sick for a couple of days so Microsoft sent me Gears of War 4 Xbox One S to cheer me up. Top blokes ^_^ https://t.co/gxC22qcTZg",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 783321636208607200,
+              "id_str": "783321636208607233",
+              "indices": [
+                112,
+                135
+              ],
+              "media_url": "http://pbs.twimg.com/media/Ct7q4L8XgAESzpa.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Ct7q4L8XgAESzpa.jpg",
+              "url": "https://t.co/gxC22qcTZg",
+              "display_url": "pic.twitter.com/gxC22qcTZg",
+              "expanded_url": "https://twitter.com/DaithiDeNogla/status/783321656345366528/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1152,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 783321636208607200,
+              "id_str": "783321636208607233",
+              "indices": [
+                112,
+                135
+              ],
+              "media_url": "http://pbs.twimg.com/media/Ct7q4L8XgAESzpa.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Ct7q4L8XgAESzpa.jpg",
+              "url": "https://t.co/gxC22qcTZg",
+              "display_url": "pic.twitter.com/gxC22qcTZg",
+              "expanded_url": "https://twitter.com/DaithiDeNogla/status/783321656345366528/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1152,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 474919140,
+          "id_str": "474919140",
+          "name": "Daithi De Nogla",
+          "screen_name": "DaithiDeNogla",
+          "location": "over there",
+          "description": "Official Twitter of Daithi De Nogla ft Joe, Tony & @bereluvsnewsies",
+          "url": "https://t.co/N5rdJ8hrWl",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/N5rdJ8hrWl",
+                  "expanded_url": "http://www.youtube.com/user/daithidenogla",
+                  "display_url": "youtube.com/user/daithiden…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1087246,
+          "friends_count": 30,
+          "listed_count": 635,
+          "created_at": "Thu Jan 26 13:52:20 +0000 2012",
+          "favourites_count": 28517,
+          "utc_offset": 3600,
+          "time_zone": "London",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 59032,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "709397",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/660885263300829184/Ubdp0hGA_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/660885263300829184/Ubdp0hGA_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/474919140/1440014249",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "86A4A6",
+          "profile_sidebar_fill_color": "A0C5C7",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 165,
+        "favorite_count": 2432,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 165,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:48 +0000 2016",
+      "id": 783683866724741100,
+      "id_str": "783683866724741120",
+      "text": "Lenovo non si fida di Microsoft: stop a Windows Phone - https://t.co/QyTCgLRofY https://t.co/XK5bxKTrSe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QyTCgLRofY",
+            "expanded_url": "http://www.teknokultura.it/48664/lenovo-non-si-fida-di-microsoft-stop-a-windows-phone/",
+            "display_url": "teknokultura.it/48664/lenovo-n…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 783683865025982500,
+            "id_str": "783683865025982465",
+            "indices": [
+              80,
+              103
+            ],
+            "media_url": "http://pbs.twimg.com/media/CuA0UrcUMAERyzK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CuA0UrcUMAERyzK.jpg",
+            "url": "https://t.co/XK5bxKTrSe",
+            "display_url": "pic.twitter.com/XK5bxKTrSe",
+            "expanded_url": "https://twitter.com/teknokulturaa/status/783683866724741120/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 601,
+                "h": 401,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 601,
+                "h": 401,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 601,
+                "h": 401,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 783683865025982500,
+            "id_str": "783683865025982465",
+            "indices": [
+              80,
+              103
+            ],
+            "media_url": "http://pbs.twimg.com/media/CuA0UrcUMAERyzK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CuA0UrcUMAERyzK.jpg",
+            "url": "https://t.co/XK5bxKTrSe",
+            "display_url": "pic.twitter.com/XK5bxKTrSe",
+            "expanded_url": "https://twitter.com/teknokulturaa/status/783683866724741120/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 601,
+                "h": 401,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 601,
+                "h": 401,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 601,
+                "h": 401,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "it",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.teknokultura.it/\" rel=\"nofollow\">TK_App_Tw</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3063080374,
+        "id_str": "3063080374",
+        "name": "TeknoKultura",
+        "screen_name": "teknokulturaa",
+        "location": "",
+        "description": "La Tecnologia alla portata di tutti",
+        "url": "http://t.co/2PzXZYbZQM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/2PzXZYbZQM",
+                "expanded_url": "http://www.teknokultura.it",
+                "display_url": "teknokultura.it",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 782,
+        "friends_count": 1434,
+        "listed_count": 6,
+        "created_at": "Wed Feb 25 19:18:22 +0000 2015",
+        "favourites_count": 10,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3333,
+        "lang": "it",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570664454203789312/JpQWD-1p_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570664454203789312/JpQWD-1p_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3063080374/1424892213",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "it"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:46 +0000 2016",
+      "id": 783683856851431400,
+      "id_str": "783683856851431424",
+      "text": "Samuel Marín muestra cómo la nube de Microsoft hace frente a los retos de seguridad y movilidad actuales… https://t.co/iE7jr7K7vD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iE7jr7K7vD",
+            "expanded_url": "https://twitter.com/i/web/status/783683856851431424",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 106144676,
+        "id_str": "106144676",
+        "name": "Microsoft España",
+        "screen_name": "MicrosoftES",
+        "location": "España",
+        "description": "Twitter Oficial de Microsoft España. Escuchamos y conversamos. Consulta las novedades aquí https://t.co/1zuYv0z6BI Encuentra soporte técnico en @MicrosoftAyuda",
+        "url": "http://t.co/2tEOIULE47",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/2tEOIULE47",
+                "expanded_url": "http://www.microsoft.es/",
+                "display_url": "microsoft.es",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/1zuYv0z6BI",
+                "expanded_url": "http://microsoft.es/prensa",
+                "display_url": "microsoft.es/prensa",
+                "indices": [
+                  91,
+                  114
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 30094,
+        "friends_count": 3084,
+        "listed_count": 859,
+        "created_at": "Mon Jan 18 16:54:09 +0000 2010",
+        "favourites_count": 3433,
+        "utc_offset": 7200,
+        "time_zone": "Madrid",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 15419,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181269529/TKS8JtIz.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181269529/TKS8JtIz.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/520859179435585537/q5r_zzxo_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/520859179435585537/q5r_zzxo_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106144676/1434704442",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:44 +0000 2016",
+      "id": 783683851390296000,
+      "id_str": "783683851390296065",
+      "text": "Congrats to @Egnyte on inking an important new partnership with @Microsoft. https://t.co/TpZl3f1Q9i",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Egnyte",
+            "name": "Egnyte",
+            "id": 15010101,
+            "id_str": "15010101",
+            "indices": [
+              12,
+              19
+            ]
+          },
+          {
+            "screen_name": "Microsoft",
+            "name": "Microsoft",
+            "id": 74286565,
+            "id_str": "74286565",
+            "indices": [
+              64,
+              74
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TpZl3f1Q9i",
+            "expanded_url": "https://techcrunch.com/2016/10/03/egnyte-announces-deep-partnership-with-microsoft-at-dreamforce/",
+            "display_url": "techcrunch.com/2016/10/03/egn…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 27814665,
+        "id_str": "27814665",
+        "name": "GV",
+        "screen_name": "GVteam",
+        "location": "",
+        "description": "GV provides venture capital funding to bold new companies.",
+        "url": "http://t.co/nwnS4Z6pap",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/nwnS4Z6pap",
+                "expanded_url": "http://gv.com",
+                "display_url": "gv.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 535359,
+        "friends_count": 290,
+        "listed_count": 7947,
+        "created_at": "Tue Mar 31 04:36:27 +0000 2009",
+        "favourites_count": 7,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 1672,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EFEFEF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/96855816/background.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/96855816/background.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673653383065034753/JYgdBfuh_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673653383065034753/JYgdBfuh_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27814665/1449446469",
+        "profile_link_color": "3366CC",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:43 +0000 2016",
+      "id": 783683844562116600,
+      "id_str": "783683844562116608",
+      "text": "WEBINAR! Conosci le potenzialità di #Microsoft Planner? 17 Ottobre h 14.30 ti aspettiamo!\nhttps://t.co/pAN8YnV5Hl https://t.co/jeDCy6rKGd",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Microsoft",
+            "indices": [
+              36,
+              46
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pAN8YnV5Hl",
+            "expanded_url": "http://bit.ly/2dRHXfs",
+            "display_url": "bit.ly/2dRHXfs",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 783683767655338000,
+            "id_str": "783683767655337984",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/CuA0PAtWEAAxfIW.png",
+            "media_url_https": "https://pbs.twimg.com/media/CuA0PAtWEAAxfIW.png",
+            "url": "https://t.co/jeDCy6rKGd",
+            "display_url": "pic.twitter.com/jeDCy6rKGd",
+            "expanded_url": "https://twitter.com/MESAnetwork/status/783683844562116608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 340,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 783683767655338000,
+            "id_str": "783683767655337984",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/CuA0PAtWEAAxfIW.png",
+            "media_url_https": "https://pbs.twimg.com/media/CuA0PAtWEAAxfIW.png",
+            "url": "https://t.co/jeDCy6rKGd",
+            "display_url": "pic.twitter.com/jeDCy6rKGd",
+            "expanded_url": "https://twitter.com/MESAnetwork/status/783683844562116608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 340,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "it",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 603134055,
+        "id_str": "603134055",
+        "name": "MESA S.r.l.",
+        "screen_name": "MESAnetwork",
+        "location": "",
+        "description": "Innovazione Tecnologica e Consulenza Direzionale.",
+        "url": "http://t.co/ZJTkehTEI4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/ZJTkehTEI4",
+                "expanded_url": "http://www.mesaconsulting.eu",
+                "display_url": "mesaconsulting.eu",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 102,
+        "friends_count": 89,
+        "listed_count": 119,
+        "created_at": "Fri Jun 08 20:46:37 +0000 2012",
+        "favourites_count": 169,
+        "utc_offset": 7200,
+        "time_zone": "Rome",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 771,
+        "lang": "it",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFCEAD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628189233337995264/jxyekzuP_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628189233337995264/jxyekzuP_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/603134055/1423498459",
+        "profile_link_color": "FF4400",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "it"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:43 +0000 2016",
+      "id": 783683843140292600,
+      "id_str": "783683843140292608",
+      "text": "RT @msdev_fr: #experiencesInside à suivre en direct #experiences https://t.co/BJu4mBsEV6 https://t.co/lnxwOcpPWw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "experiencesInside",
+            "indices": [
+              14,
+              32
+            ]
+          },
+          {
+            "text": "experiences",
+            "indices": [
+              52,
+              64
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "msdev_fr",
+            "name": "Microsoft Devs",
+            "id": 150691309,
+            "id_str": "150691309",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BJu4mBsEV6",
+            "expanded_url": "http://msdn.fr/experiencesLiveTech",
+            "display_url": "msdn.fr/experiencesLiv…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 783683327459024900,
+            "id_str": "783683327459024896",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/CuAz1Y2XYAA1vVm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CuAz1Y2XYAA1vVm.jpg",
+            "url": "https://t.co/lnxwOcpPWw",
+            "display_url": "pic.twitter.com/lnxwOcpPWw",
+            "expanded_url": "https://twitter.com/msdev_fr/status/783683330059427840/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 783683330059427800,
+            "source_status_id_str": "783683330059427840",
+            "source_user_id": 150691309,
+            "source_user_id_str": "150691309"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 783683327459024900,
+            "id_str": "783683327459024896",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/CuAz1Y2XYAA1vVm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CuAz1Y2XYAA1vVm.jpg",
+            "url": "https://t.co/lnxwOcpPWw",
+            "display_url": "pic.twitter.com/lnxwOcpPWw",
+            "expanded_url": "https://twitter.com/msdev_fr/status/783683330059427840/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 783683330059427800,
+            "source_status_id_str": "783683330059427840",
+            "source_user_id": 150691309,
+            "source_user_id_str": "150691309"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 478814917,
+        "id_str": "478814917",
+        "name": "Dezeiraud Gaëtan",
+        "screen_name": "Brouilles",
+        "location": "France",
+        "description": "Amoureux de la programmation et du monde informatique depuis plus de 5 ans. Que ce soit dans le domaine du web, logiciel ou du jeu vidéo.",
+        "url": "https://t.co/n9ZXYfAoqY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/n9ZXYfAoqY",
+                "expanded_url": "http://dezeiraud.com/",
+                "display_url": "dezeiraud.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 27,
+        "friends_count": 42,
+        "listed_count": 68,
+        "created_at": "Mon Jan 30 18:00:39 +0000 2012",
+        "favourites_count": 667,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1974,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/596389668838572032/gInRosF-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/596389668838572032/gInRosF-_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 05 15:00:40 +0000 2016",
+        "id": 783683330059427800,
+        "id_str": "783683330059427840",
+        "text": "#experiencesInside à suivre en direct #experiences https://t.co/BJu4mBsEV6 https://t.co/lnxwOcpPWw",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "experiencesInside",
+              "indices": [
+                0,
+                18
+              ]
+            },
+            {
+              "text": "experiences",
+              "indices": [
+                38,
+                50
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/BJu4mBsEV6",
+              "expanded_url": "http://msdn.fr/experiencesLiveTech",
+              "display_url": "msdn.fr/experiencesLiv…",
+              "indices": [
+                51,
+                74
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 783683327459024900,
+              "id_str": "783683327459024896",
+              "indices": [
+                75,
+                98
+              ],
+              "media_url": "http://pbs.twimg.com/media/CuAz1Y2XYAA1vVm.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CuAz1Y2XYAA1vVm.jpg",
+              "url": "https://t.co/lnxwOcpPWw",
+              "display_url": "pic.twitter.com/lnxwOcpPWw",
+              "expanded_url": "https://twitter.com/msdev_fr/status/783683330059427840/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 783683327459024900,
+              "id_str": "783683327459024896",
+              "indices": [
+                75,
+                98
+              ],
+              "media_url": "http://pbs.twimg.com/media/CuAz1Y2XYAA1vVm.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CuAz1Y2XYAA1vVm.jpg",
+              "url": "https://t.co/lnxwOcpPWw",
+              "display_url": "pic.twitter.com/lnxwOcpPWw",
+              "expanded_url": "https://twitter.com/msdev_fr/status/783683330059427840/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 150691309,
+          "id_str": "150691309",
+          "name": "Microsoft Devs",
+          "screen_name": "msdev_fr",
+          "location": "Paris, France",
+          "description": "Actus, nouveautés, tutos, événements pour tous les développeurs français. Sur les technos Microsoft bien sûr, mais pas que !",
+          "url": "https://t.co/QdtyJWpZbd",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/QdtyJWpZbd",
+                  "expanded_url": "https://msdn.microsoft.com/fr-fr/",
+                  "display_url": "msdn.microsoft.com/fr-fr/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 10499,
+          "friends_count": 2597,
+          "listed_count": 713,
+          "created_at": "Tue Jun 01 15:33:54 +0000 2010",
+          "favourites_count": 1788,
+          "utc_offset": 7200,
+          "time_zone": "Paris",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 9963,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F5F5",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/634364051766837248/KQEo9U4b.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/634364051766837248/KQEo9U4b.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/756119202264743936/kZKMbhl9_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/756119202264743936/kZKMbhl9_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/150691309/1473151802",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:40 +0000 2016",
+      "id": 783683830704209900,
+      "id_str": "783683830704209920",
+      "text": "#TEAMG1 tres bonne strategie de sony contre microsoft grace au playstation vr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TEAMG1",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 735211439611359200,
+        "id_str": "735211439611359233",
+        "name": "MarwaneGhost_77",
+        "screen_name": "MarwaneGhost_77",
+        "location": "Meaux, France",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 22,
+        "friends_count": 20,
+        "listed_count": 0,
+        "created_at": "Tue May 24 20:50:41 +0000 2016",
+        "favourites_count": 6,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/735212340384301060/2GhKK1iU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/735212340384301060/2GhKK1iU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/735211439611359233/1464123255",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "fr"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:38 +0000 2016",
+      "id": 783683824865546200,
+      "id_str": "783683824865546240",
+      "text": "RT @KanagawaSafety: 川崎市\n23時58分頃 川崎区駅前本町5番付近より 火災の通報があり、消防車が出場しています \n (川崎市消防情報より)／ かわさき火事ドコ？まっぷ https://t.co/2DNheJr2mV #火災 #火事",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "火災",
+            "indices": [
+              119,
+              122
+            ]
+          },
+          {
+            "text": "火事",
+            "indices": [
+              123,
+              126
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KanagawaSafety",
+            "name": "あんぜんねっと＠神奈川",
+            "id": 119285277,
+            "id_str": "119285277",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2DNheJr2mV",
+            "expanded_url": "http://goo.gl/KqkyR",
+            "display_url": "goo.gl/KqkyR",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2811223981,
+        "id_str": "2811223981",
+        "name": "けーと",
+        "screen_name": "keito20020208",
+        "location": "気持ちはいつも等々力陸上競技場",
+        "description": "神聖かまってちゃん/ゲスの極み乙女。/indigo la End/川崎フロンターレ/思った事色々と吐きまくるので嫌だったらミュートまたはリムしとけ",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 334,
+        "friends_count": 685,
+        "listed_count": 1,
+        "created_at": "Mon Sep 15 11:56:58 +0000 2014",
+        "favourites_count": 2410,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10698,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/775277917970456576/ni4HL-gB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/775277917970456576/ni4HL-gB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2811223981/1466864418",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 05 15:01:07 +0000 2016",
+        "id": 783683441501933600,
+        "id_str": "783683441501933569",
+        "text": "川崎市\n23時58分頃 川崎区駅前本町5番付近より 火災の通報があり、消防車が出場しています \n (川崎市消防情報より)／ かわさき火事ドコ？まっぷ https://t.co/2DNheJr2mV #火災 #火事",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "火災",
+              "indices": [
+                99,
+                102
+              ]
+            },
+            {
+              "text": "火事",
+              "indices": [
+                103,
+                106
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/2DNheJr2mV",
+              "expanded_url": "http://goo.gl/KqkyR",
+              "display_url": "goo.gl/KqkyR",
+              "indices": [
+                75,
+                98
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "ja",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://anzn.net/\" rel=\"nofollow\">あんぜんねっと</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 119285277,
+          "id_str": "119285277",
+          "name": "あんぜんねっと＠神奈川",
+          "screen_name": "KanagawaSafety",
+          "location": "神奈川県",
+          "description": "神奈川県内の安全安心に関わる情報です。警察や消防および全ての行政機関や公的組織とは無関係の非公式なものです。",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 18759,
+          "friends_count": 15,
+          "listed_count": 730,
+          "created_at": "Wed Mar 03 05:37:21 +0000 2010",
+          "favourites_count": 0,
+          "utc_offset": 32400,
+          "time_zone": "Tokyo",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 149137,
+          "lang": "ja",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1316797483/119285277-1303189685-92_normal",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316797483/119285277-1303189685-92_normal",
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:38 +0000 2016",
+      "id": 783683823754063900,
+      "id_str": "783683823754063876",
+      "text": "RT @gossipgriII: using microsoft word\n\n*moves an image 1 mm to the left*\n\nall text and images shift. 4 new pages appear. in the distance, s…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gossipgriII",
+            "name": "Lourdes",
+            "id": 326597236,
+            "id_str": "326597236",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 559414680,
+        "id_str": "559414680",
+        "name": "H",
+        "screen_name": "FarahAsyiqin7",
+        "location": "",
+        "description": "INFINITE + INSPIRIT = INFINITY  ^_^ \ncurrently into MONSTA X \ni like kpop, so to non-kpopers follow me on ur own risk okay ^^",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 386,
+        "friends_count": 293,
+        "listed_count": 10,
+        "created_at": "Sat Apr 21 08:36:02 +0000 2012",
+        "favourites_count": 26104,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 41594,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/890145445/fef7561289c141d508d3b54705f38ebc.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/890145445/fef7561289c141d508d3b54705f38ebc.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/778494065625096192/Hc6AVlIV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/778494065625096192/Hc6AVlIV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/559414680/1444969618",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Mar 25 18:02:37 +0000 2016",
+        "id": 713425874167537700,
+        "id_str": "713425874167537664",
+        "text": "using microsoft word\n\n*moves an image 1 mm to the left*\n\nall text and images shift. 4 new pages appear. in the distance, sirens.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 326597236,
+          "id_str": "326597236",
+          "name": "Lourdes",
+          "screen_name": "gossipgriII",
+          "location": "bekah",
+          "description": "and until I die I'm gonna still be living because @ricardojkay lives 👻 #blacklivesmatter",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 12418,
+          "friends_count": 231,
+          "listed_count": 125,
+          "created_at": "Thu Jun 30 05:10:48 +0000 2011",
+          "favourites_count": 26422,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 54200,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561758789594914816/W90GOhkS.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561758789594914816/W90GOhkS.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/779564639768104961/6VE3DsVQ_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/779564639768104961/6VE3DsVQ_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/326597236/1475451140",
+          "profile_link_color": "000000",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "E5507E",
+          "profile_text_color": "362720",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 40836,
+        "favorite_count": 52121,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 40836,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:38 +0000 2016",
+      "id": 783683822214844400,
+      "id_str": "783683822214844416",
+      "text": "\"Two big Silicon Valley names are missing from the alliance...\" https://t.co/GnjPiMmlhX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GnjPiMmlhX",
+            "expanded_url": "http://bit.ly/ai-partners",
+            "display_url": "bit.ly/ai-partners",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 59788298,
+        "id_str": "59788298",
+        "name": "MATCHBOX MOBILE",
+        "screen_name": "MatchboxMobile",
+        "location": "BRIGHTON UK + SEATTLE USA",
+        "description": "Experts in #IoT integration, custom #apps and #cloud services.",
+        "url": "http://t.co/eg1iRm1nCx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/eg1iRm1nCx",
+                "expanded_url": "http://matchboxmobile.com",
+                "display_url": "matchboxmobile.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 671,
+        "friends_count": 648,
+        "listed_count": 49,
+        "created_at": "Fri Jul 24 13:56:09 +0000 2009",
+        "favourites_count": 160,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 760,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/447023504475451392/f6_bO-4d.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/447023504475451392/f6_bO-4d.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2815149580/f94502d7a1dee710daab95111f6cecee_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2815149580/f94502d7a1dee710daab95111f6cecee_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/59788298/1451985539",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F5F5F5",
+        "profile_text_color": "1F1F1F",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:33 +0000 2016",
+      "id": 783683801394376700,
+      "id_str": "783683801394376705",
+      "text": "RT @evankirstel: Microsoft Unveils Coming Skype for Business Improvements -- @RedmondIT https://t.co/sZerlNNqI1 #skype4b",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "skype4b",
+            "indices": [
+              112,
+              120
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "evankirstel",
+            "name": "Evan Kirstel",
+            "id": 35203319,
+            "id_str": "35203319",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "RedmondIT",
+            "name": "Redmond",
+            "id": 30311616,
+            "id_str": "30311616",
+            "indices": [
+              77,
+              87
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sZerlNNqI1",
+            "expanded_url": "https://drumup.io/s/cHq46L",
+            "display_url": "drumup.io/s/cHq46L",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5848282,
+        "id_str": "5848282",
+        "name": "TonyO",
+        "screen_name": "tonyobregon",
+        "location": "San Diego",
+        "description": "digital marketer at @AvanadeInc focused on #contentmarketing, #digitaltransformation, #socialbusiness, #socialmedia, #marketing & #Microsoft (Tweets are mine)",
+        "url": "https://t.co/Ptmf8sIxxD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Ptmf8sIxxD",
+                "expanded_url": "http://www.avanade.com",
+                "display_url": "avanade.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5770,
+        "friends_count": 3655,
+        "listed_count": 647,
+        "created_at": "Tue May 08 00:31:04 +0000 2007",
+        "favourites_count": 2637,
+        "utc_offset": -25200,
+        "time_zone": "America/Los_Angeles",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8704,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F87217",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/603624800444030976/57mz5Nyh.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/603624800444030976/57mz5Nyh.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/776217498391764993/2GjXJo4U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/776217498391764993/2GjXJo4U_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5848282/1470061457",
+        "profile_link_color": "E09B12",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D1D198",
+        "profile_text_color": "5F84D9",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Oct 02 22:10:22 +0000 2016",
+        "id": 782704303181996000,
+        "id_str": "782704303181996032",
+        "text": "Microsoft Unveils Coming Skype for Business Improvements -- @RedmondIT https://t.co/sZerlNNqI1 #skype4b",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "skype4b",
+              "indices": [
+                95,
+                103
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "RedmondIT",
+              "name": "Redmond",
+              "id": 30311616,
+              "id_str": "30311616",
+              "indices": [
+                60,
+                70
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/sZerlNNqI1",
+              "expanded_url": "https://drumup.io/s/cHq46L",
+              "display_url": "drumup.io/s/cHq46L",
+              "indices": [
+                71,
+                94
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 35203319,
+          "id_str": "35203319",
+          "name": "Evan Kirstel",
+          "screen_name": "evankirstel",
+          "location": "Boston, MA",
+          "description": "#Solopreneur & #Influencer Helping B2B clients w Social in #Enterprise◾️ #IoT▪️ #Telecom▪️ #Cloud ▪️ #Mobile ▪️ #DigitalHealth◾️ #Cybersecurity ➡️@UCstrategies",
+          "url": "https://t.co/4sKdSpm19R",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/4sKdSpm19R",
+                  "expanded_url": "http://evankirstel.com",
+                  "display_url": "evankirstel.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 84795,
+          "friends_count": 71461,
+          "listed_count": 9545,
+          "created_at": "Sat Apr 25 12:45:16 +0000 2009",
+          "favourites_count": 334138,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 385719,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/749249788332441600/Lh3Zh0ep_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/749249788332441600/Lh3Zh0ep_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/35203319/1473528821",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:30 +0000 2016",
+      "id": 783683792372281300,
+      "id_str": "783683792372281349",
+      "text": "#Tech #GoldCoast Google claws back ground on AWS and Microsoft with Australian cloud launch https://t.co/eOvH3yp9JG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Tech",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "text": "GoldCoast",
+            "indices": [
+              6,
+              16
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eOvH3yp9JG",
+            "expanded_url": "http://dlvr.it/MPFp1F",
+            "display_url": "dlvr.it/MPFp1F",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 349313088,
+        "id_str": "349313088",
+        "name": "T Lawrence",
+        "screen_name": "geek_au",
+        "location": "australia",
+        "description": "social media geek.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1079,
+        "friends_count": 929,
+        "listed_count": 303,
+        "created_at": "Fri Aug 05 22:25:05 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": 32400,
+        "time_zone": "Yakutsk",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 128762,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1479794371/geek_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1479794371/geek_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:30 +0000 2016",
+      "id": 783683791982305300,
+      "id_str": "783683791982305280",
+      "text": "📚  ⒹⒶⓇⓀⓇⒺⒶⒹⒾⓃⒼ  ⊼↳ \nhttps://t.co/I8kN3vI8Rm\nMicrosoft Execs Talk Public Policy Changes For Cloud",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/I8kN3vI8Rm",
+            "expanded_url": "http://darkreading.com",
+            "display_url": "darkreading.com",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://mike.verdone.ca/twitter/\" rel=\"nofollow\">Command-line Tool</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 73672052,
+        "id_str": "73672052",
+        "name": "#root",
+        "screen_name": "_cirrus_minor_",
+        "location": "55.875682,-4.192095",
+        "description": "Most days  i'm a bot who resides in a Raspberry Pi Model B, cron  and #!/bin/bash are my best pals. Every other Saturday i  frequent the Penny Arcade. #watp",
+        "url": "http://t.co/CBfrmFnwBj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/CBfrmFnwBj",
+                "expanded_url": "http://cirrusminor.info",
+                "display_url": "cirrusminor.info",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 876,
+        "friends_count": 1468,
+        "listed_count": 201,
+        "created_at": "Sat Sep 12 16:02:12 +0000 2009",
+        "favourites_count": 360,
+        "utc_offset": 3600,
+        "time_zone": "Europe/London",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 128606,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "191919",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/669306560225636352/TQLYESug.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/669306560225636352/TQLYESug.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000759469938/eb291fdfab91b48c5dce895464f89715_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000759469938/eb291fdfab91b48c5dce895464f89715_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73672052/1448399047",
+        "profile_link_color": "497AF7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "120303",
+        "profile_text_color": "3056FF",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:28 +0000 2016",
+      "id": 783683783375532000,
+      "id_str": "783683783375532032",
+      "text": "https://t.co/3nHINJrcvL @Microsoft #Microsoft",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Microsoft",
+            "indices": [
+              35,
+              45
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Microsoft",
+            "name": "Microsoft",
+            "id": 74286565,
+            "id_str": "74286565",
+            "indices": [
+              24,
+              34
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3nHINJrcvL",
+            "expanded_url": "http://techgenix.com/changing-face-business-windows-technology/",
+            "display_url": "techgenix.com/changing-face-…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19994791,
+        "id_str": "19994791",
+        "name": "Greg",
+        "screen_name": "Chopperguy2009",
+        "location": "iPhone: 53.529129,-113.265671",
+        "description": "",
+        "url": "https://t.co/1XHsWUzwgs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/1XHsWUzwgs",
+                "expanded_url": "http://www.seitechnologies.ca",
+                "display_url": "seitechnologies.ca",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 42,
+        "friends_count": 76,
+        "listed_count": 1,
+        "created_at": "Tue Feb 03 19:16:14 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": -21600,
+        "time_zone": "Mountain Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 313,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1297132060/lT877_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1297132060/lT877_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19994791/1468088866",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "53504716d445dcad",
+        "url": "https://api.twitter.com/1.1/geo/id/53504716d445dcad.json",
+        "place_type": "city",
+        "name": "Calgary",
+        "full_name": "Calgary, Alberta",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -114.3160379,
+                50.84278
+              ],
+              [
+                -113.859664,
+                50.84278
+              ],
+              [
+                -113.859664,
+                51.212548
+              ],
+              [
+                -114.3160379,
+                51.212548
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:28 +0000 2016",
+      "id": 783683782872182800,
+      "id_str": "783683782872182784",
+      "text": "Azure IoT loves Open Source https://t.co/RxPjVZgwon",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RxPjVZgwon",
+            "expanded_url": "http://bit.ly/2cSxhfV",
+            "display_url": "bit.ly/2cSxhfV",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft PowerApps</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19365015,
+        "id_str": "19365015",
+        "name": "Ryan Graham",
+        "screen_name": "rjygraham",
+        "location": "Pittsburgh, PA",
+        "description": "Father. Husband. Nerd. Buckeye. Blue Badge. Cloudie.\r\n\r\nOpinions are my own.",
+        "url": "https://t.co/G0FefOgnot",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/G0FefOgnot",
+                "expanded_url": "http://rjygraham.com",
+                "display_url": "rjygraham.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 448,
+        "friends_count": 621,
+        "listed_count": 68,
+        "created_at": "Thu Jan 22 22:12:20 +0000 2009",
+        "favourites_count": 802,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11778,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000614939771/832a797fcb876cf29995d9228bd2ee5f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000614939771/832a797fcb876cf29995d9228bd2ee5f_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:27 +0000 2016",
+      "id": 783683777797165000,
+      "id_str": "783683777797165057",
+      "text": "RT @Daniel_Rubino: Microsoft's Surface Mouse is a rebranded Designer Mouse https://t.co/6OFBySniiS https://t.co/ZWi2vCdo4B",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Daniel_Rubino",
+            "name": "Daniel Rubino",
+            "id": 37025150,
+            "id_str": "37025150",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6OFBySniiS",
+            "expanded_url": "http://www.windowscentral.com/microsoft-surface-mouse-fcc",
+            "display_url": "windowscentral.com/microsoft-surf…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 783677595338485800,
+            "id_str": "783677595338485760",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/CuAunvCVMAA-1WH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CuAunvCVMAA-1WH.jpg",
+            "url": "https://t.co/ZWi2vCdo4B",
+            "display_url": "pic.twitter.com/ZWi2vCdo4B",
+            "expanded_url": "https://twitter.com/Daniel_Rubino/status/783677597515259904/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 710,
+                "h": 635,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 608,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 710,
+                "h": 635,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 783677597515259900,
+            "source_status_id_str": "783677597515259904",
+            "source_user_id": 37025150,
+            "source_user_id_str": "37025150"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 783677595338485800,
+            "id_str": "783677595338485760",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/CuAunvCVMAA-1WH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CuAunvCVMAA-1WH.jpg",
+            "url": "https://t.co/ZWi2vCdo4B",
+            "display_url": "pic.twitter.com/ZWi2vCdo4B",
+            "expanded_url": "https://twitter.com/Daniel_Rubino/status/783677597515259904/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 710,
+                "h": 635,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 608,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 710,
+                "h": 635,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 783677597515259900,
+            "source_status_id_str": "783677597515259904",
+            "source_user_id": 37025150,
+            "source_user_id_str": "37025150"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 254928056,
+        "id_str": "254928056",
+        "name": "WINDOWS",
+        "screen_name": "windowssave",
+        "location": "NOKIA ",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 208,
+        "friends_count": 62,
+        "listed_count": 183,
+        "created_at": "Sun Feb 20 08:57:18 +0000 2011",
+        "favourites_count": 15474,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18732,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/725031883235557378/lGJ3Djmy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/725031883235557378/lGJ3Djmy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254928056/1455309158",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 05 14:37:53 +0000 2016",
+        "id": 783677597515259900,
+        "id_str": "783677597515259904",
+        "text": "Microsoft's Surface Mouse is a rebranded Designer Mouse https://t.co/6OFBySniiS https://t.co/ZWi2vCdo4B",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/6OFBySniiS",
+              "expanded_url": "http://www.windowscentral.com/microsoft-surface-mouse-fcc",
+              "display_url": "windowscentral.com/microsoft-surf…",
+              "indices": [
+                56,
+                79
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 783677595338485800,
+              "id_str": "783677595338485760",
+              "indices": [
+                80,
+                103
+              ],
+              "media_url": "http://pbs.twimg.com/media/CuAunvCVMAA-1WH.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CuAunvCVMAA-1WH.jpg",
+              "url": "https://t.co/ZWi2vCdo4B",
+              "display_url": "pic.twitter.com/ZWi2vCdo4B",
+              "expanded_url": "https://twitter.com/Daniel_Rubino/status/783677597515259904/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 710,
+                  "h": 635,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 608,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 710,
+                  "h": 635,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 783677595338485800,
+              "id_str": "783677595338485760",
+              "indices": [
+                80,
+                103
+              ],
+              "media_url": "http://pbs.twimg.com/media/CuAunvCVMAA-1WH.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CuAunvCVMAA-1WH.jpg",
+              "url": "https://t.co/ZWi2vCdo4B",
+              "display_url": "pic.twitter.com/ZWi2vCdo4B",
+              "expanded_url": "https://twitter.com/Daniel_Rubino/status/783677597515259904/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 710,
+                  "h": 635,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 608,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 710,
+                  "h": 635,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.metrotwit.com/\" rel=\"nofollow\">MetroTwit</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 37025150,
+          "id_str": "37025150",
+          "name": "Daniel Rubino",
+          "screen_name": "Daniel_Rubino",
+          "location": "Marlborough, MA",
+          "description": "Editor in chief, Windows Central. https://t.co/YWWcQIU09j Email: daniel@windowscentral.com",
+          "url": "https://t.co/2l3l2YK9ut",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/2l3l2YK9ut",
+                  "expanded_url": "http://www.windowscentral.com",
+                  "display_url": "windowscentral.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/YWWcQIU09j",
+                  "expanded_url": "https://about.me/danielrubino",
+                  "display_url": "about.me/danielrubino",
+                  "indices": [
+                    34,
+                    57
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 54596,
+          "friends_count": 576,
+          "listed_count": 977,
+          "created_at": "Fri May 01 19:56:00 +0000 2009",
+          "favourites_count": 169,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 47760,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "022330",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/524362038491889665/FxV_twrT.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/524362038491889665/FxV_twrT.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/773257536006942720/1dgZPaFI_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/773257536006942720/1dgZPaFI_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/37025150/1473302092",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "666666",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:24 +0000 2016",
+      "id": 783683767424589800,
+      "id_str": "783683767424589824",
+      "text": "Here we go again ... My computer and this latest Microsoft 10 update are simply not compatible.… https://t.co/hZI4cmTVbj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hZI4cmTVbj",
+            "expanded_url": "https://www.instagram.com/p/BLL3-d6hxxP/",
+            "display_url": "instagram.com/p/BLL3-d6hxxP/",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 309918168,
+        "id_str": "309918168",
+        "name": "TDW",
+        "screen_name": "TDWTravelBlog",
+        "location": "Have bag, will travel",
+        "description": "We wander for distraction, but we travel for fulfillment. ~ Hilaire Biloc. TDW is short for The Distracted Wanderer, so please virtually join me as I travel.",
+        "url": "http://t.co/2P6sefszuH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/2P6sefszuH",
+                "expanded_url": "http://www.thedistractedwanderer.com/",
+                "display_url": "thedistractedwanderer.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 153,
+        "friends_count": 362,
+        "listed_count": 20,
+        "created_at": "Thu Jun 02 22:00:41 +0000 2011",
+        "favourites_count": 1168,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3232,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3494327046/b2385fd8610a7fc01b85d1e0d750a596_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3494327046/b2385fd8610a7fc01b85d1e0d750a596_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/309918168/1399658262",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          41.6983,
+          -71.9714
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -71.9714,
+          41.6983
+        ]
+      },
+      "place": {
+        "id": "e86b380cfefcced5",
+        "url": "https://api.twitter.com/1.1/geo/id/e86b380cfefcced5.json",
+        "place_type": "admin",
+        "name": "Connecticut",
+        "full_name": "Connecticut, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -73.727776,
+                40.950918
+              ],
+              [
+                -71.786994,
+                40.950918
+              ],
+              [
+                -71.786994,
+                42.050588
+              ],
+              [
+                -73.727776,
+                42.050588
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:24 +0000 2016",
+      "id": 783683765075869700,
+      "id_str": "783683765075869697",
+      "text": "The latest The TTS Daily! https://t.co/yjz2hBas2J Thanks to @debug_mode @EitanAdler @sehetw #microsoft #azure",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "microsoft",
+            "indices": [
+              92,
+              102
+            ]
+          },
+          {
+            "text": "azure",
+            "indices": [
+              103,
+              109
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "debug_mode",
+            "name": "Dhananjay Kumar",
+            "id": 138107411,
+            "id_str": "138107411",
+            "indices": [
+              60,
+              71
+            ]
+          },
+          {
+            "screen_name": "EitanAdler",
+            "name": "Eitan Adler",
+            "id": 54787534,
+            "id_str": "54787534",
+            "indices": [
+              72,
+              83
+            ]
+          },
+          {
+            "screen_name": "sehetw",
+            "name": "sehe",
+            "id": 478687097,
+            "id_str": "478687097",
+            "indices": [
+              84,
+              91
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yjz2hBas2J",
+            "expanded_url": "http://paper.li/tsqrdsolutions/1318445876?edition_id=b7d8b580-8b0c-11e6-8981-0cc47a0d1605",
+            "display_url": "paper.li/tsqrdsolutions…",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 207685720,
+        "id_str": "207685720",
+        "name": "TTS",
+        "screen_name": "tsqrdsolutions",
+        "location": "",
+        "description": "IT professional, Managed Service Provider",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 60,
+        "friends_count": 138,
+        "listed_count": 15,
+        "created_at": "Mon Oct 25 20:55:26 +0000 2010",
+        "favourites_count": 0,
+        "utc_offset": -21600,
+        "time_zone": "Mountain Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2643,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175777885/Tims-Technical-Solultions_FINAL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175777885/Tims-Technical-Solultions_FINAL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/207685720/1350583580",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:23 +0000 2016",
+      "id": 783683763284901900,
+      "id_str": "783683763284901888",
+      "text": "@enCloud9 will listening to the #CRMUG next week and providing you with all the newest news on #dynamics365 and #Microsoft news!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "CRMUG",
+            "indices": [
+              32,
+              38
+            ]
+          },
+          {
+            "text": "dynamics365",
+            "indices": [
+              95,
+              107
+            ]
+          },
+          {
+            "text": "Microsoft",
+            "indices": [
+              112,
+              122
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "enCloud9",
+            "name": "enCloud9 Social CRM",
+            "id": 14079121,
+            "id_str": "14079121",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 14079121,
+      "in_reply_to_user_id_str": "14079121",
+      "in_reply_to_screen_name": "enCloud9",
+      "user": {
+        "id": 14079121,
+        "id_str": "14079121",
+        "name": "enCloud9 Social CRM",
+        "screen_name": "enCloud9",
+        "location": "United States",
+        "description": "All In with the Cloud. CRM. Social Media Automation. Office Productivity.",
+        "url": "http://t.co/ruiDLyF9yo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/ruiDLyF9yo",
+                "expanded_url": "http://about.me/brianbegley",
+                "display_url": "about.me/brianbegley",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 615,
+        "friends_count": 921,
+        "listed_count": 105,
+        "created_at": "Tue Mar 04 18:26:41 +0000 2008",
+        "favourites_count": 143,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2388,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/474758230598381568/hP7YrKu8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/474758230598381568/hP7YrKu8_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14079121/1461895799",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:21 +0000 2016",
+      "id": 783683754501877800,
+      "id_str": "783683754501877761",
+      "text": "RT @gossipgriII: using microsoft word\n\n*moves an image 1 mm to the left*\n\nall text and images shift. 4 new pages appear. in the distance, s…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gossipgriII",
+            "name": "Lourdes",
+            "id": 326597236,
+            "id_str": "326597236",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4218532637,
+        "id_str": "4218532637",
+        "name": "chris wyl",
+        "screen_name": "Javagabber",
+        "location": "Wetcoast Canada",
+        "description": "Fun n games with mature content. Now dumping on Trump, tho mostly on my account alternative. Check it @kodiakinkevlar",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 114,
+        "friends_count": 372,
+        "listed_count": 4,
+        "created_at": "Wed Nov 18 14:21:48 +0000 2015",
+        "favourites_count": 4571,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4754,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/771964035638104064/du5MbhRa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/771964035638104064/du5MbhRa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4218532637/1469989713",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Mar 25 18:02:37 +0000 2016",
+        "id": 713425874167537700,
+        "id_str": "713425874167537664",
+        "text": "using microsoft word\n\n*moves an image 1 mm to the left*\n\nall text and images shift. 4 new pages appear. in the distance, sirens.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 326597236,
+          "id_str": "326597236",
+          "name": "Lourdes",
+          "screen_name": "gossipgriII",
+          "location": "bekah",
+          "description": "and until I die I'm gonna still be living because @ricardojkay lives 👻 #blacklivesmatter",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 12418,
+          "friends_count": 231,
+          "listed_count": 125,
+          "created_at": "Thu Jun 30 05:10:48 +0000 2011",
+          "favourites_count": 26422,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 54200,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561758789594914816/W90GOhkS.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561758789594914816/W90GOhkS.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/779564639768104961/6VE3DsVQ_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/779564639768104961/6VE3DsVQ_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/326597236/1475451140",
+          "profile_link_color": "000000",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "E5507E",
+          "profile_text_color": "362720",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 40836,
+        "favorite_count": 52121,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 40836,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 15:02:20 +0000 2016",
+      "id": 783683750613909500,
+      "id_str": "783683750613909504",
+      "text": "RT @windowscentral: Microsoft Surface Mouse gets its photo taken at the FCC https://t.co/PNnLcj0C6C https://t.co/6jEyaoZ9jV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "windowscentral",
+            "name": "Windows Central",
+            "id": 14208474,
+            "id_str": "14208474",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/PNnLcj0C6C",
+            "expanded_url": "http://www.windowscentral.com/microsoft-surface-mouse-fcc",
+            "display_url": "windowscentral.com/microsoft-surf…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 783677472713928700,
+            "id_str": "783677472713928704",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/CuAugmOW8AA4OD6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CuAugmOW8AA4OD6.jpg",
+            "url": "https://t.co/6jEyaoZ9jV",
+            "display_url": "pic.twitter.com/6jEyaoZ9jV",
+            "expanded_url": "https://twitter.com/windowscentral/status/783677475431845889/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 710,
+                "h": 635,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 608,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 710,
+                "h": 635,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 783677475431845900,
+            "source_status_id_str": "783677475431845889",
+            "source_user_id": 14208474,
+            "source_user_id_str": "14208474"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 783677472713928700,
+            "id_str": "783677472713928704",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/CuAugmOW8AA4OD6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CuAugmOW8AA4OD6.jpg",
+            "url": "https://t.co/6jEyaoZ9jV",
+            "display_url": "pic.twitter.com/6jEyaoZ9jV",
+            "expanded_url": "https://twitter.com/windowscentral/status/783677475431845889/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 710,
+                "h": 635,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 608,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 710,
+                "h": 635,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 783677475431845900,
+            "source_status_id_str": "783677475431845889",
+            "source_user_id": 14208474,
+            "source_user_id_str": "14208474"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 72520440,
+        "id_str": "72520440",
+        "name": "g.",
+        "screen_name": "floo1989",
+        "location": "Lombardy, Italy",
+        "description": "Utente OS X e Windows lato desktop, iOS e Android lato mobile. Deputy Editor @SaggiaMente. Dual language Italian (mostly) / English",
+        "url": "https://t.co/foR4Ag9X9t",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/foR4Ag9X9t",
+                "expanded_url": "http://www.saggiamente.com/",
+                "display_url": "saggiamente.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 847,
+        "friends_count": 359,
+        "listed_count": 39,
+        "created_at": "Tue Sep 08 10:16:59 +0000 2009",
+        "favourites_count": 181,
+        "utc_offset": 7200,
+        "time_zone": "Rome",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 81967,
+        "lang": "it",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3043332485/8bc389827155b02ab7a1ab97df1d96d4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3043332485/8bc389827155b02ab7a1ab97df1d96d4_normal.png",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 05 14:37:24 +0000 2016",
+        "id": 783677475431845900,
+        "id_str": "783677475431845889",
+        "text": "Microsoft Surface Mouse gets its photo taken at the FCC https://t.co/PNnLcj0C6C https://t.co/6jEyaoZ9jV",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/PNnLcj0C6C",
+              "expanded_url": "http://www.windowscentral.com/microsoft-surface-mouse-fcc",
+              "display_url": "windowscentral.com/microsoft-surf…",
+              "indices": [
+                56,
+                79
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 783677472713928700,
+              "id_str": "783677472713928704",
+              "indices": [
+                80,
+                103
+              ],
+              "media_url": "http://pbs.twimg.com/media/CuAugmOW8AA4OD6.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CuAugmOW8AA4OD6.jpg",
+              "url": "https://t.co/6jEyaoZ9jV",
+              "display_url": "pic.twitter.com/6jEyaoZ9jV",
+              "expanded_url": "https://twitter.com/windowscentral/status/783677475431845889/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 710,
+                  "h": 635,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 608,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 710,
+                  "h": 635,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 783677472713928700,
+              "id_str": "783677472713928704",
+              "indices": [
+                80,
+                103
+              ],
+              "media_url": "http://pbs.twimg.com/media/CuAugmOW8AA4OD6.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CuAugmOW8AA4OD6.jpg",
+              "url": "https://t.co/6jEyaoZ9jV",
+              "display_url": "pic.twitter.com/6jEyaoZ9jV",
+              "expanded_url": "https://twitter.com/windowscentral/status/783677475431845889/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 710,
+                  "h": 635,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 608,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 710,
+                  "h": 635,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 14208474,
+          "id_str": "14208474",
+          "name": "Windows Central",
+          "screen_name": "windowscentral",
+          "location": "USA",
+          "description": "Windows is back! The #1 news, reviews and community site covering all things Microsoft. Full feed https://t.co/Jow2yyzrIb Tips: tips@windowscentral.com",
+          "url": "http://t.co/2l3l2Z1Km1",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/2l3l2Z1Km1",
+                  "expanded_url": "http://www.windowscentral.com",
+                  "display_url": "windowscentral.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/Jow2yyzrIb",
+                  "expanded_url": "https://twitter.com/wc_headlines",
+                  "display_url": "twitter.com/wc_headlines",
+                  "indices": [
+                    98,
+                    121
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 343994,
+          "friends_count": 123,
+          "listed_count": 3498,
+          "created_at": "Mon Mar 24 16:24:54 +0000 2008",
+          "favourites_count": 23,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 45038,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FF6699",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/524363165321031680/LxUB6O0y.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/524363165321031680/LxUB6O0y.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/525043798158495747/1A6ONKMV_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/525043798158495747/1A6ONKMV_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/14208474/1413471879",
+          "profile_link_color": "B40B43",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "E5507E",
+          "profile_text_color": "362720",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.115,
+    "max_id": 783683907002757100,
+    "max_id_str": "783683907002757121",
+    "next_results": "?max_id=783683750613909503&q=microsoft&count=25&include_entities=1",
+    "query": "microsoft",
+    "refresh_url": "?since_id=783683907002757121&q=microsoft&include_entities=1",
+    "count": 25,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

@@ -16,10 +16,10 @@ function tweetEvent(eventMsg) {
 	
 	console.log( 'from: ' + eventMsg.user.name);
 	
-	if (replyto == 'frieza175') {
+	// if (replyto == 'frieza175') {
 
-		var newtweet = 'thanks a lot @' + from + ' you are awesome..' ;
-		console.log(newtweet)
+	// 	var newtweet = 'thanks a lot @' + from + ' you are awesome..' ;
+	// 	console.log(newtweet)
 		//tweetIt(newtweet);
 
 	}

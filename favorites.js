@@ -5,7 +5,7 @@ var config = require('./config');
 var T = new Twit(config);
 
 	var query ={  
-		 q: '#myfirsttweet', count: 20  
+		 q: '#myfirsttweet since:2011-07-11 ', count: 30  
 		}
 
 
@@ -19,28 +19,28 @@ var T = new Twit(config);
 	
 	for(i = 0; i < data.statuses.length;i++)
 	{
-
 	var screenname = data.statuses[i].user.screen_name;
+	var id = data.statuses[i].user.id;
 	console.log(screenname);
-	befriend(screenname);
+	favoriteIt(id);
 		}
 
-	function befriend(namess){
+	function favoriteIt(getID){
 		var friend ={
-		 	screen_name: namess, 
-			 follow: true
-		}
+		 	id: getID,
+		 	favorited: true		
+		 }
    
-   setTimeout(function() {T.post('friendships/create',friend, callback)}, 1000*25);
+   //setTimeout(function() {T.post('favorites/create',friend, callback)}, 1000*25);
 
-	//T.post('friendships/create',friend, callback)
+	T.post('favorites/create',friend, callback)
 
 	function callback(err, data, response){
 			if (err){
 				console.log(err.message)
 		}
 			else{
-				console.log("New friendships \m/ ")
+				console.log("New favorites ")
 		}
 	}
 }

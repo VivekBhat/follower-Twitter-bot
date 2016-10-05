@@ -1,1 +1,1 @@
-worker: node friendship.js
+worker: node randomSearch.js
