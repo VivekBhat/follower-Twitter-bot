@@ -31,9 +31,9 @@ var T = new Twit(config);
 			 follow: true
 		}
    
-   setTimeout(function() {T.post('friendships/create',friend, callback)}, 1000*25);
+   // setTimeout(function() {T.post('friendships/create',friend, callback)}, 1000*25);
 
-	//T.post('friendships/create',friend, callback)
+	T.post('friendships/create',friend, callback)
 
 	function callback(err, data, response){
 			if (err){
