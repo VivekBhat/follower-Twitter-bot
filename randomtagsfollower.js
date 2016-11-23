@@ -12,17 +12,10 @@ var T = new Twit(config);
 
 		 q: tags[x], count: 22  
 		}
-
-//	T.get('search/tweets', query, searched) ;
    setTimeout(function() {T.get('search/tweets', query, searched)}, 1000*60*5);
- //setTimeout(function() {T.post('favorites/create',friend, callback)}, 1000*25);
 
-	function searched(err,data,response){
-	// jso = jso +1;
-	// var fs = require('fs');
-	// var json = JSON.stringify(data, null, 2);
-	// fs.writeFile("newdata_"+ jso +".json", json);
-	
+
+	function searched(err,data,response){	
 	for(i = 0; i < data.statuses.length;i++){
 	var screenname = data.statuses[i].user.screen_name;
 	var id = data.statuses[i].user.id;
@@ -46,8 +39,6 @@ var T = new Twit(config);
 			follow: true
 		}
    
-    //setTimeout(function() {T.post('friendships/create',friend, callback)}, 1000*60*5);
-
 	T.post('friendships/create',friend, callback)
 
 	function callback(err, data, response){
@@ -65,22 +56,17 @@ var T = new Twit(config);
 		 	id: getID,
 		 	favorited: true		
 		 }
-   
-   //setTimeout(function() {T.post('favorites/create',friend, callback)}, 1000*25);
-
+  
 	T.post('favorites/create',friend, callback)
 
 	function callback(err, data, response){
 			if (err){
 				console.log(err.message)
-		}
+				}
 			else{
 				console.log("New favorites is:" + data.screen_name)
-		}
+		  	    }
 	}
-}
+     }
 	
-	}
-
-	// T.post('direct_messages/new', {user_id:})
-
+}
