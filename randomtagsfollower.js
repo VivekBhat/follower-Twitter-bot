@@ -5,7 +5,7 @@ var config = require('./config');
 var T = new Twit(config);
 
 	
-	var tags = ["cloud computing", "google", "microsoft", "facebook", "noble", "devops", "azure", "pixel", "serverless", "amazon"]
+	var tags = ["cloud computing", "google", "microsoft", "facebook", "ansible", "devops", "azure", "pixel", "serverless", "amazon"]
 	var x = Math.floor((Math.random() * 10));
 	
 	var query ={  
